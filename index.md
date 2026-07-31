@@ -12,7 +12,7 @@ La materia se trata de un curso de cálculo diferencial e integral en varias var
 
 :::{important} Canal de noticias de {Telegram}`Telegram`
 **¡Unite!**, el link está en el campus.  
-Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como respaldo por si es campus está caído.  
+Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como respaldo por si el campus está caído.  
 :::
 <!-- https://t.me/+kGgWsAtle2ZlODEx -->
 
