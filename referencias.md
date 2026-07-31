@@ -22,4 +22,4 @@
 ## Recursos varios de interés
 - {cite}`GutierrezMora2018`: para vectores, rectas y planos. (Hacé click para descargarlo).
 - {cite}`Paez2013`: matrices, determinantes y sistemas lineales. (Hacé click para descargarlo).
-- {cite}`Hernandez2017`: para repasar cálculo en una variable.  (Hacé click para descargarlo).
+<!-- - {cite}`Hernandez2017`: para repasar cálculo en una variable.  (Hacé click para descargarlo). -->
