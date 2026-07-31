@@ -16,7 +16,7 @@ Como medio de comunicación más fluido, y al mismo tiempo como respaldo del cam
 :::
 
 
-## Cronoma de cursada y fechas importantes
+## Cronograma de cursada y fechas importantes
 Miralo del campus, porque cambia cuatri a cuatri.
 
 
