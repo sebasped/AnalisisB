@@ -2,7 +2,7 @@
 version: 1
 project:
   # id: 334c3feb-7e60-444b-8fcc-57c06a928022
-  title: Matemática II para Biología
+  title: Análisis B
   # authors: Facundo Sapienza
   # description:
   # keywords: []
@@ -19,18 +19,18 @@ project:
     #    - file: general/informacion.md
     #    - file: general/agenda.md
     #    - file: general/requisitos.md
-    - file: noticias.md
-      title: Noticias y anuncios
+    # - file: noticias.md
+      # title: Noticias y anuncios
     - title: Unidades
       children:
-        - file: unidades/00_intro_python.md
-        - file: unidades/01_aproximacion_funciones.md
-    - title: Material y bibliografía
-      children:
-        - file: material/python_instalacion.md
-        - file: material/python_uso_basico.md
-        - file: material/nbs_resueltas.md
-        - file: referencias.md
+        - file: unidades/00_algebra_trigonometria.md
+        - file: unidades/01_conicas_cuadricas_funciones.md
+    # - title: Material y bibliografía
+      # children:
+        # - file: material/python_instalacion.md
+        # - file: material/python_uso_basico.md
+        # - file: material/nbs_resueltas.md
+    - file: referencias.md
     - file: glosario.md
     - file: contribucion.md
     - file: preguntas_frecuentes.md
@@ -38,7 +38,7 @@ site:
   template: book-theme
   options:
   #   favicon: favicon.ico
-    logo: images/dm.png
-    title: "Matemática II para Biología"
+    logo: images/logo-UNSAM.png
+    title: "Análisis B"
 bibliography:
   - bibliography.bib

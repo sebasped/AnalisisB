@@ -1,12 +1,30 @@
 ---
-title: 'Matemática II para Biología'
-subtitle: 'UBA-FCEyN, DM'
+title: 'Análisis B'
+subtitle: 'ECyT, UNSAM'
 ---
 
-Matemática II para Biología.
+Acá vas a encontrar esencialmente todo lo relacionado la materia Análisis B de la ECyT de la UNSAM.
 
-Acá vas a encontrar esencialmente todo lo relacionado a la práctica de la materia, bastante enfocada a encarar los problemas utilizando la compu, más específicamente programando en {term}`Python`.
+Si tenés alguna consulta que no pueda esperar a la clase, podés mandar mail a:  
+[sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar)
 
+La materia se trata de un curso de cálculo diferencial e integral en varias variables, orientado a entender las ideas y técnicas básicas, y algunas de sus aplicaciones.
+
+:::{important} Canal de noticias de Telegram
+Como medio de comunicación más fluido, y al mismo tiempo como respaldo del campus, utilizaremos un canal de noticias de {term}`Telegram`.  
+[Te podés unir haciendo click aquí](https://t.me/+kGgWsAtle2ZlODEx).
+:::
+
+
+## Cronoma de cursada y fechas importantes
+Miralo del campus, porque cambia cuatri a cuatri.
+
+
+## Requisitos
+Para cursar esta materia se necesitan conocimientos previos de cálculo diferencial e integral en una variable.
+
+
+<!--
 La materia no supone ningún conocimiento previo en programación. Por eso en parte la elección de Python, pues es un lenguaje relativamente amigable para aprender a programar desde cero, pero a la vez potente.
 
 Através de Python se pueden aprender muchas técnicas básicas de programación, que luego se traducen naturalmente a otros lenguajes de programación.
@@ -17,7 +35,7 @@ Además Python es un lenguaje popular tanto en la academia como en la industria 
 No defendemos a Python ni afirmamos que sea un buen o un mal lenguaje de programación. Lo elegimos porque entendemos que guarda una buena relación entre curva de aprendizaje y popularidad real de uso.
 :::
 
-<!--
+
 
 Materia optativa para la Lic., Prof. y Doc en Cs. Matemáticas, Lic. y Doc. en Cs. de Datos. Estudiantes de otras carreras afines son también bienvenidos/as!
 
