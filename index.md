@@ -10,11 +10,11 @@ Si tenés alguna consulta que no pueda esperar a la clase, podés mandar mail a:
 
 La materia se trata de un curso de cálculo diferencial e integral en varias variables, orientado a entender las ideas y técnicas básicas, y algunas de sus aplicaciones.
 
-:::{important} Canal de noticias de Telegram: **¡unite!**
-Como medio de comunicación más fluido, y al mismo tiempo como respaldo del campus, utilizaremos un canal de noticias de {term}`Telegram`.  
-[Te podés unir haciendo click aquí](https://t.me/+kGgWsAtle2ZlODEx).
+:::{important} Canal de noticias de {Telegram}`Telegram`: **¡unite!**
+**¡Unite!**, el link está en el campus.  
+Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como respaldo por si es campus está caído.  
 :::
-
+<!-- https://t.me/+kGgWsAtle2ZlODEx -->
 
 ## Cronograma de cursada y fechas importantes
 Miralo del campus, porque cambia cuatri a cuatri.
