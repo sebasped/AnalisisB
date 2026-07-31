@@ -3,13 +3,14 @@ title: 00 - Álgebra y trigonometría
 ---
 
 :::{note} Guía de ejercicios
-[Click acá para descargar](/code/00_intro/00_intro_python_incompleta.ipynb).
+[Click acá para descargar](/material/p00_algebra_trigonometria.pdf).
 :::
 
 ## Objetivos
 Repasar y/o aprender lo que vamos a necesitar de Álgebra y Trigonometría.
 
 ## Materiales
+
 
 
 <!-- ## Material -->
