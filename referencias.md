@@ -1,5 +1,6 @@
 # Bibliografía, material y recursos
 
+
 ## Libros generales
 - {cite}`stewart2018cálculo`: libro que contiene toda la materia, más todo lo referido a una variable. Tiene la teoría y muchos ejemplos. Está al nivel del curso.  
 **Te lo podés bajar del campus**.
@@ -8,9 +9,14 @@
 **Te lo podés bajar del campus**.
 
 
-
 ## Videos y apuntes
-
+- [Videos Análisis I de Exactas UBA](https://www.youtube.com/@analisismatematico1-exacta340/courses): excelentes videos que cubren la teoría hasta la unidad 7 inclusive.
+- [Videos durante la pandemia de Análisis I de Exactas-UBA](https://www.youtube.com/@An%C3%A1lisis1Exactas-UBA/videos): cubren los temas hasta la unidad 7 inclusive.
+- [De Análisis I Exactas-UBA](https://cms.dm.uba.ar/academico/materias/1ercuat2026/analisis_1_M/): ver abajo de todo en "Material de estudio", que hay muchas cosas resueltas.
+- [Apunte de Curvas, Superficies e Integrales (por Gabriel Acosta y Noemí Wolanski)](http://mate.dm.uba.ar/~wolanski/apunte%20curvas%20noemi.pdf).
+    - [Nueva versión pero sin superficies](https://cms.dm.uba.ar/academico/materias/2docuat2018/analisis_II/AIIM3.pdf).
+- [Apunte Teoremas Integrales de Green, Stokes y Gauss (por Victoria Paternostro y Julio Daniel Rossi)](https://cms.dm.uba.ar/academico/materias/2docuat2020/analisis_II/Apunte-GSG-Paternostro-Rossi.pdf).
+- [Videos y diapositivas durante la pandemia de Análisis II Exactas-UBA](https://mate.dm.uba.ar/~mfarinat/materias/analisisII-mate3/): cubre los temas de la unidad 8 en adelante.
 
 
 ## Recursos varios de interés
