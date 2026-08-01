@@ -3,7 +3,7 @@ title: 'Análisis B'
 subtitle: 'ECyT, UNSAM'
 ---
 
-Acá vas a encontrar esencialmente todo lo relacionado la materia Análisis B de la ECyT de la UNSAM.
+Acá vas a encontrar esencialmente todo lo relacionado la materia Análisis B de la ECyT de la UNSAM, de los Martes y Jueves de 14 a 18 h.
 
 Si tenés alguna consulta que no pueda esperar a la clase, podés mandar mail a:  
 [sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar)
