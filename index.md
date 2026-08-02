@@ -13,8 +13,7 @@ Acá vas a encontrar esencialmente todo lo relacionado a la materia Análisis B 
 La materia se trata de un curso de cálculo diferencial e integral en varias variables, orientado a entender las ideas y técnicas básicas, y algunas de sus aplicaciones.
 
 ## Canales de comunicación asincrónica
-Si tenés alguna consulta que no pueda esperar a la clase, podés mandar mail a:  
-[sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar)
+Consultas que no puedan esperar a la clase: [sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar).
 :::{important} Canal de noticias de {Telegram}`Telegram`
 **¡Unite!**, [haciendo click acá](https://t.me/+kGgWsAtle2ZlODEx).    
 Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como respaldo por si el campus está caído.  
