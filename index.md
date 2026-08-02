@@ -1,6 +1,6 @@
 ---
 title: 'Análisis B'
-subtitle: 'ECyT, UNSAM'
+subtitle: 'UNSAM'
 ---
 
 :::{danger} ¡Chequeá este sitio seguido!
