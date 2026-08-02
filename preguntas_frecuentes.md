@@ -1,4 +1,8 @@
 # Preguntas Frecuentes
+:::{dropdown} ¿Hay modelos de exámenes?
+:class: dropdown
+Sí, lo visto en clases y lo propuesto en las guías de ejercicios.
+:::
 
 :::{dropdown} ¿Costó mucho hacer este sitio?
 :class: dropdown

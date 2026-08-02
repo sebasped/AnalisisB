@@ -1,4 +1,4 @@
-# Contribución
+# Contribuir al sitio
 
 El material es **abierto**, lo cual quiere decir que cualquier persona puede usarlo para sus propios fines, y **colaborativo**, con lo cual contribuciones son bienvenidas.
 Eso significa que los estudiantes también pueden ayudar a mejorarlo.

@@ -4,13 +4,23 @@ title: 00 - Álgebra y trigonometría
 
 :::{note} Guía de ejercicios
 [Click acá para descargar](/material/p00_algebra_trigonometria.pdf).
+
+- **Autoevaluación**: sin mirar nada, ¿entendés y te salen los siguientes ejercicios?
+  - 1)f), 1)g), 2)b)II), 2)c)II), 4, 8, 9.
 :::
 
 ## Objetivos
 Repasar y/o aprender lo que vamos a necesitar de Álgebra y Trigonometría.
 
 ## Materiales
-
+- [En libros generales](/referencias.md#libros-generales):
+  - Secciones 1.1 a 1.6 del Portesi.
+  - El cap. 1 del Flores.
+  - Si necesitás más cantidad y ejemplos, mirá el Gutiérrez & Mora.
+- [En videos y apuntes](/referencias.md#videos-y-apuntes):
+  - Videos 1 a 6 de Análisis I Exactas-UBA.
+- [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
+  - Usá GeoGebra para gráficamente entender lo que está pasando.
 
 
 <!-- ## Material -->
