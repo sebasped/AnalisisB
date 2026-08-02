@@ -3,18 +3,23 @@ title: 'Análisis B'
 subtitle: 'ECyT, UNSAM'
 ---
 
-Acá vas a encontrar esencialmente todo lo relacionado la materia Análisis B de la ECyT de la UNSAM, de los Martes y Jueves de 14 a 18 h.
+:::{danger} ¡Chequeá este sitio seguido!
+Hacemos mejoras, agregados y modificaciones constantemente.
+:::
 
-Si tenés alguna consulta que no pueda esperar a la clase, podés mandar mail a:  
-[sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar)
+## Información general
+Acá vas a encontrar esencialmente todo lo relacionado la materia Análisis B de la ECyT de la UNSAM, de los Martes y Jueves de 14 a 18 h.
 
 La materia se trata de un curso de cálculo diferencial e integral en varias variables, orientado a entender las ideas y técnicas básicas, y algunas de sus aplicaciones.
 
+## Canales de comunicación asincrónica
+Si tenés alguna consulta que no pueda esperar a la clase, podés mandar mail a:  
+[sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar)
 :::{important} Canal de noticias de {Telegram}`Telegram`
 **¡Unite!**, [haciendo click acá](https://t.me/+kGgWsAtle2ZlODEx).    
 Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como respaldo por si el campus está caído.  
 :::
-<!-- https://t.me/+kGgWsAtle2ZlODEx -->
+
 
 ## Cronograma de cursada y fechas importantes
 Tentivo, sujeto a modificaciones. [Descargado haciendo click acá](/material/cronograma_clases_analisisB.pdf).
