@@ -15,7 +15,7 @@ title: 01 - Cónicas y cuádricas - Funciones
 
 ## Materiales
 - [En libros generales](/referencias.md#libros-generales):
-  - Secciones 4.1 y 4.2 del Berrío & Sáiz.
+  - Secciones 2.7, 4.1 y 4.2 del Berrío & Sáiz.
   - Secciones 1.7 y 3.1 del Portesi.
   - Caps. 2 y 3 del Flores.
   <!-- - Si necesitás más cantidad y ejemplos, mirá el Gutiérrez & Mora. -->
@@ -25,3 +25,4 @@ title: 01 - Cónicas y cuádricas - Funciones
     - Sección "Funciones Escalares" del apunte en GeoGebra del Prof. Fabián Contreras.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
+  - [Visulización en GeoGebra de Cónicas en 3D (interactivo)](https://www.geogebra.org/m/varfw2v6).
