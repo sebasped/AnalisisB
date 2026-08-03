@@ -14,7 +14,7 @@ La materia se trata de un curso de cálculo diferencial e integral en varias var
 
 ## Canales de comunicación asincrónica
 Consultas que no puedan esperar a la clase: [sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar).
-:::{important} Canal de noticias de {Telegram}`Telegram`
+:::{important} Canal de noticias de {term}`Telegram`
 **¡Unite!**, [haciendo click acá](https://t.me/+kGgWsAtle2ZlODEx).    
 Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como respaldo por si el campus está caído.  
 :::
