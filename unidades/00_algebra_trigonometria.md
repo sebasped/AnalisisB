@@ -14,6 +14,7 @@ Repasar y/o aprender lo que vamos a necesitar de Álgebra y Trigonometría.
 
 ## Materiales
 - [En libros generales](/referencias.md#libros-generales):
+  - Secciones 2.1 a 2.6 del Berrío & Sáiz.
   - Secciones 1.1 a 1.6 del Portesi.
   - El cap. 1 del Flores.
   - Si necesitás más cantidad y ejemplos, mirá el Gutiérrez & Mora.

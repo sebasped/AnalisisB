@@ -15,6 +15,7 @@ title: 01 - Cónicas y cuádricas - Funciones
 
 ## Materiales
 - [En libros generales](/referencias.md#libros-generales):
+  - Secciones 2.7, 4.1 y 4.2 del Berrío & Sáiz.
   - Secciones 1.7 y 3.1 del Portesi.
   - Caps. 2 y 3 del Flores.
   <!-- - Si necesitás más cantidad y ejemplos, mirá el Gutiérrez & Mora. -->

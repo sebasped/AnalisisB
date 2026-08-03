@@ -2,6 +2,7 @@
 
 
 ## Libros generales
+- {cite}`RiveraBerrio2020`: excelente libro interactivo que mezcla muy buenas explicaciones con muchos gráficos interactivos y estáticos. Sirve para toda la materia. (Click para ir al sitio).
 - {cite}`Portesi2019Calculo`: excelente libro para toda la materia, con muy buenas explicaciones de las ideas y muchos ejemplos. (Click para ir a la página para descargarlo).
 - {cite}`MoraFlores2022`: muy buen libro que tiene toda la materia, al nivel adecuado. (Hacé click para descargarlo).
 - {cite}`GutierrezMora2018`: para vectores, rectas y planos. (Hacé click para descargarlo).
