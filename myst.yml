@@ -34,6 +34,12 @@ project:
         - file: unidades/08_integrales_curvilineas.md
         - file: unidades/09_integrales_superficies.md
         - file: unidades/10_teoremas_integrales.md
+    # - title: Explicaciones breves
+    #   children:
+    #     - file: explicaciones/01_conicas.md
+    #     - file: explicaciones/01_subconj_R2.md
+    #     - file: explicaciones/01_superficies_R3.md
+    #     - file: explicaciones/01_nociones_topo.md
     # - title: Material y bibliografía
       # children:
         # - file: material/python_instalacion.md

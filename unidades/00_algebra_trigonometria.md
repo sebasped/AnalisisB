@@ -19,6 +19,7 @@ Repasar y/o aprender lo que vamos a necesitar de Álgebra y Trigonometría.
   - Si necesitás más cantidad y ejemplos, mirá el Gutiérrez & Mora.
 - [En videos y apuntes](/referencias.md#videos-y-apuntes):
   - Videos 1 a 6 de Análisis I Exactas-UBA.
+  - Sección "Topología" del apunte en GeoGebra del Prof. Fabián Contreras.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
 

@@ -15,6 +15,7 @@
 ## Videos y apuntes
 - [Videos Cálculo II de Fac. Ing. Univ. San Juan](https://calculo2.fi.unsj.edu.ar/videos/): incluye toda la materia.
 - [Videos Análisis I de Exactas UBA](https://www.youtube.com/@analisismatematico1-exacta340/courses): excelentes videos que cubren la teoría hasta la unidad 7 inclusive.
+- [Apunte interactivo en GeoGebra de Cálculo varias variables, Prof. Fabián Contreras](https://sites.google.com/view/fcontreras/notas/notas-sobre-c%C3%A1lculo-en-varias-variables): excelente apunte hecho íntegramente en GeoGebra, con muchos ejemplos e ideas gráficas.
 - [Apunte de Curvas, Superficies e Integrales (por Gabriel Acosta y Noemí Wolanski)](http://mate.dm.uba.ar/~wolanski/apunte%20curvas%20noemi.pdf).
     - [Nueva versión pero sin superficies](https://cms.dm.uba.ar/academico/materias/2docuat2018/analisis_II/AIIM3.pdf).
 - [Apunte Teoremas Integrales de Green, Stokes y Gauss (por Victoria Paternostro y Julio Daniel Rossi)](https://cms.dm.uba.ar/academico/materias/2docuat2020/analisis_II/Apunte-GSG-Paternostro-Rossi.pdf).

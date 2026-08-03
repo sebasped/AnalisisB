@@ -21,5 +21,6 @@ title: 01 - Cónicas y cuádricas - Funciones
 - [En videos y apuntes](/referencias.md#videos-y-apuntes):
     - Videos "campos escalares" y "curvas de nivel" de Cálculo II de la Univ. San Juan. 
     - Videos 11 a 13 y 15 de Análisis I Exactas-UBA.
+    - Sección "Funciones Escalares" del apunte en GeoGebra del Prof. Fabián Contreras.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
