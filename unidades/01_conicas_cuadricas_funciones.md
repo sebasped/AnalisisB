@@ -25,4 +25,5 @@ title: 01 - Cónicas y cuádricas - Funciones
     - Sección "Funciones Escalares" del apunte en GeoGebra del Prof. Fabián Contreras.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
-  - [Visulización en GeoGebra de Cónicas en 3D (interactivo)](https://www.geogebra.org/m/varfw2v6).
+  - [Visualización en GeoGebra de Cónicas en 3D (interactivo)](https://www.geogebra.org/m/varfw2v6).
+  - [Gráficas de Superficies Cuádricas y trazas empleando GeoGebra (pdf interactivo)](https://revistas.tec.ac.cr/index.php/matematica/article/view/2479).
