@@ -40,11 +40,11 @@ Un issue sirve para reportar errores, proponer mejoras, hacer preguntas sobre el
 
 :::{note} Cómo abrir un _issue_
 Podés encontrar información paso a paso sobre cómo abrir un issue en el siguiente [link](https://docs.github.com/es/issues/tracking-your-work-with-issues/creating-an-issue
-). Los issues se deben abrir en el repositorio asociado a la página web de este curso. Para abrir un issue nuevo, podés ir al siguiente [link](https://github.com/sebasped/MateIIB/issues/new).
+). Los issues se deben abrir en el repositorio asociado a la página web de este curso. Para abrir un issue nuevo, podés ir al siguiente [link](https://github.com/sebasped/AnalisisB/issues/new).
 :::
 
 :::{attention} Atención
-Antes de abrir un issue nuevo, asegurate de que dicho issue no existe. Podés chequear todos los issues en el siguiente [link](https://github.com/sebasped/MateIIB/issues/).
+Antes de abrir un issue nuevo, asegurate de que dicho issue no existe. Podés chequear todos los issues en el siguiente [link](https://github.com/sebasped/AnalisisB/issues/).
 :::
 
 ## Proponer cambios al material (Pull Request)
@@ -85,7 +85,7 @@ Esta es la secuencia clásica `git add`, `git commit` y `git push` donde se agre
 
 Desde GitHub (la página web):
 - Abrí un PR. Podés encontrar más información de cómo abrir un PR en el siguiente [link](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/creating-a-pull-request).
-- Seleccioná el [repositorio original](https://github.com/facusapienza21/DM2026-Curso) como destino.
+- Seleccioná el [repositorio original](https://github.com/sebasped/AnalisisB/) como destino.
 - Agregá al instructor como reviewer, así puedo evaluar los cambios y potencialmente dar feedback sobre más cambios.
 
 :::{tip} Buenas prácticas para contribuciones
