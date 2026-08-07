@@ -12,6 +12,12 @@ Acá vas a encontrar esencialmente todo lo relacionado a la materia Análisis B 
 
 La materia se trata de un curso de cálculo diferencial e integral en varias variables, orientado a entender las ideas y técnicas básicas, y algunas de sus aplicaciones.
 
+- [Calendario académico de CyT](https://www.unsam.edu.ar/escuelas/ecyt/calendario.php).
+- [Aulas de cursada y de exámenes finales de CyT](https://www.unsam.edu.ar/escuelas/ecyt/aulas.php).
+<!-- - [Resto de la info en la pestaña "Estudiantes" de aquí](https://www.unsam.edu.ar/escuelas/ecyt/). -->
+
+
+
 ## Canales de comunicación asincrónica
 Consultas que no puedan esperar a la clase: [sebastian.pedersen@unsam.edu.ar](mailto:sebastian.pedersen@unsam.edu.ar).
 :::{important} Canal de noticias de {term}`Telegram`
