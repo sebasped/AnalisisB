@@ -27,7 +27,7 @@ Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como 
 
 
 ## Cronograma de cursada y fechas importantes
-Tentivo, sujeto a modificaciones. [Descargado haciendo click acá](/material/cronograma_clases_analisisB.pdf).
+Tentivo, sujeto a modificaciones. [Descargado haciendo click acá](material/cronograma_clases_analisisB.pdf).
 <!-- Miralo del campus, porque cambia cuatri a cuatri. -->
 
 
