@@ -2,7 +2,7 @@
 title: 02 - Curvas y coordenadas polares
 ---
 
-**FALTA COMPLETAR**
+<!-- **FALTA COMPLETAR** -->
 
 :::{note} Guía de ejercicios
 [Click acá para descargar](/material/p02_polares_curvas.pdf).
