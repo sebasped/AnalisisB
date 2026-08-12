@@ -9,7 +9,7 @@ Hacemos mejoras, agregados y modificaciones constantemente.
 
 ## Financiamiento Universitario
 
-Situación actual de la Ley de Financiamiento Universitario:
+<!-- Situación actual de la Ley de Financiamiento Universitario: -->
 
 <iframe
   src="https://sudhurok.github.io/reloj-ley-universitaria/reloj-contador.html"
@@ -20,7 +20,7 @@ Situación actual de la Ley de Financiamiento Universitario:
   style="border:none; overflow:hidden;">
 </iframe>
 
-La Universidad Pública no puede esperar más. 🇦🇷
+<!-- La Universidad Pública no puede esperar más. 🇦🇷 -->
 
 
 ## Información general
