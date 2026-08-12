@@ -20,6 +20,7 @@ Hacemos mejoras, agregados y modificaciones constantemente.
   style="border:none; overflow:hidden;">
 </iframe>
 
+[Cronología del conflicto](https://sudhurok.github.io/reloj-ley-universitaria/#cronologia).
 <!-- La Universidad Pública no puede esperar más. 🇦🇷 -->
 
 
