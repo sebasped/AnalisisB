@@ -7,6 +7,22 @@ subtitle: 'UNSAM'
 Hacemos mejoras, agregados y modificaciones constantemente.
 :::
 
+## Financiamiento Universitario
+
+Situación actual de la Ley de Financiamiento Universitario:
+
+<iframe
+  src="https://sudhurok.github.io/reloj-ley-universitaria/reloj-contador.html"
+  width="100%"
+  height="300"
+  frameborder="0"
+  scrolling="no"
+  style="border:none; overflow:hidden;">
+</iframe>
+
+La Universidad Pública no puede esperar más. 🇦🇷
+
+
 ## Información general
 Acá vas a encontrar esencialmente todo lo relacionado a la materia Análisis B de la UNSAM, de los Martes y Jueves de 14 a 18 h.
 
