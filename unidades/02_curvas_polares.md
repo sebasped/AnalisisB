@@ -23,6 +23,7 @@ title: 02 - Curvas y coordenadas polares
 - [En videos y apuntes](/referencias.md#videos-y-apuntes):
     <!-- - Videos "campos escalares" y "curvas de nivel" de Cálculo II de la Univ. San Juan.  -->
     - Videos 7 a 10 y 15 de Análisis I Exactas-UBA.
+    - Sec. 1.1 del apunte de curvas de Wolanski y Acosta.
     <!-- - Sección "Funciones Escalares" del apunte en GeoGebra del Prof. Fabián Contreras. -->
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
