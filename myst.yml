@@ -23,17 +23,20 @@ project:
       # title: Noticias y anuncios
     - title: Unidades
       children:
-        - file: unidades/00_algebra_trigonometria.md
-        - file: unidades/01_conicas_cuadricas_funciones.md
-        - file: unidades/02_curvas_polares.md
         - file: unidades/03_limites_continuidad.md
-        - file: unidades/04_diferenciabilidad.md
-        - file: unidades/05_implicita_inversa_taylor.md
-        - file: unidades/06_extremos.md
-        - file: unidades/07_integrales_multiples.md
-        - file: unidades/08_integrales_curvilineas.md
-        - file: unidades/09_integrales_superficies.md
-        - file: unidades/10_teoremas_integrales.md
+        - file: unidades/02_curvas_polares.md
+        - file: unidades/01_conicas_cuadricas_funciones.md
+        - file: unidades/00_algebra_trigonometria.md
+        
+        
+        
+        # - file: unidades/04_diferenciabilidad.md
+        # - file: unidades/05_implicita_inversa_taylor.md
+        # - file: unidades/06_extremos.md
+        # - file: unidades/07_integrales_multiples.md
+        # - file: unidades/08_integrales_curvilineas.md
+        # - file: unidades/09_integrales_superficies.md
+        # - file: unidades/10_teoremas_integrales.md
     # - title: Explicaciones breves
     #   children:
     #     - file: explicaciones/01_conicas.md
