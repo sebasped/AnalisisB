@@ -20,7 +20,8 @@ title: 03 - Límites y continuidad
   - Sec. 3.2 del Portesi.
   - Secs. 5.1 y 5.2 del Flores.
 - [En videos y apuntes](/referencias.md#videos-y-apuntes):
-    - Videos 14 y 15, y videos "anexo" 1 y 2, de Análisis I Exactas-UBA.
+    - Videos 14 y 15 de Análisis I Exactas-UBA.
+      - Opcional: videos "anexo" 1 y 2 de Análisis I Exactas-UBA.
     - Sección "Límite y continuidad" del apunte en GeoGebra del Prof. Fabián Contreras.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
