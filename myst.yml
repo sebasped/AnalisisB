@@ -27,9 +27,6 @@ project:
         - file: unidades/02_curvas_polares.md
         - file: unidades/01_conicas_cuadricas_funciones.md
         - file: unidades/00_algebra_trigonometria.md
-        
-        
-        
         # - file: unidades/04_diferenciabilidad.md
         # - file: unidades/05_implicita_inversa_taylor.md
         # - file: unidades/06_extremos.md
@@ -52,6 +49,7 @@ project:
     - file: glosario.md
     - file: contribucion.md
     - file: preguntas_frecuentes.md
+    - file: bonus.md
 site:
   template: book-theme
   options:
