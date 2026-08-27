@@ -1,7 +1,7 @@
 # Contribuir al sitio
 
 El material es **abierto**, lo cual quiere decir que cualquier persona puede usarlo para sus propios fines, y **colaborativo**, con lo cual contribuciones son bienvenidas.
-Eso significa que los estudiantes también pueden ayudar a mejorarlo.
+Eso significa que lxs estudiantes también pueden ayudar a mejorarlo.
 
 Te invitamos a contribuir en cualquiera de los siguientes casos:
 - 🔤 Errores de tipeo u ortográficos
@@ -30,7 +30,7 @@ Este curso intenta acercarse a la forma en que realmente se produce conocimiento
 - 🔍 Revisión por pares
 - 🔄 Mejora continua del material
 
-Incluso pequeñas correcciones ayudan muchísimo a mejorar el curso para todos los estudiantes e interesados.
+Incluso pequeñas correcciones ayudan muchísimo a mejorar el curso para todxs lxs estudiantes e interesadxs.
 Además, tu nombre quedará para siempre en el repositorio del curso por haber contribuido y aportado cambios al mismo.
 
 ## Reportar un problema (Issue)
