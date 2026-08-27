@@ -43,7 +43,9 @@ Consultas que no puedan esperar a la clase: [sebastian.pedersen@unsam.edu.ar](ma
 **¡Unite!**, [haciendo click acá](https://t.me/+kGgWsAtle2ZlODEx).    
 Lo utilizaremos como medio de comunicación más fluido, y al mismo tiempo como respaldo por si el campus está caído.  
 :::
-
+:::{important} {term}`Discord` de la materia.
+**¡Unite!**, [haciendo click acá](https://discord.gg/GmvgDPsmUc).  
+:::
 
 ## Cronograma de cursada y fechas importantes
 Tentivo, sujeto a modificaciones. [Descargado haciendo click acá](material/cronograma_clases_analisisB.pdf).
