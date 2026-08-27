@@ -27,7 +27,7 @@ Hacemos mejoras, agregados y modificaciones constantemente.
 
 ---
 ## Información general
-Acá vas a encontrar esencialmente todo lo relacionado a la materia Análisis B de la UNSAM, de los Martes y Jueves de 14 a 18 h.
+Acá vas a encontrar todo lo relacionado a la materia Análisis B de la UNSAM, de los Martes y Jueves de 14 a 18 h.
 
 La materia se trata de un curso de cálculo diferencial e integral en varias variables, orientado a entender las ideas y técnicas básicas, y algunas de sus aplicaciones.
 
