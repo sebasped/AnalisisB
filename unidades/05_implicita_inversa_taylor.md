@@ -20,6 +20,9 @@ title: 05 - Teoremas de la función implícita y de la función inversa - Polino
   - Secs. 5.8 y 5.9 del Flores.
 - [En videos y apuntes](/referencias.md#videos-y-apuntes):
     - Videos "Función implícita, derivada" y "Fórmula de Taylor" de Cálculo II de la Univ. San Juan.
-    - Videos 26 a 28 de Análisis I Exactas-UBA.
+    - Videos 24 a 28 de Análisis I Exactas-UBA.
+      - OJO que los videos 24 y 25 no están en el playlist, están "sueltos" acá"
+        - [Video 24](https://www.youtube.com/watch?v=owZkSEhHpeQ).
+        - [Video 25](https://www.youtube.com/watch?v=8fGQsRsl4j8).
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
