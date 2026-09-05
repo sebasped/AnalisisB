@@ -3,6 +3,9 @@ title: 'Bonus: la lucha por nuestra atención'
 ---
 
 Disparadores para debatir:
+:::{note} 23/Agosto/2026
+[¿Por qué la TECNOLOGÍA NUNCA es NEUTRAL? | Flavia Costa en Cabaret Voltaire ](https://www.youtube.com/watch?v=GKrtptIsrU0).  
+:::
 
 :::{note} 22/Agosto/2026
 [Quiénes son los “Gandalf”: el grupo que declaró la guerra contra los algoritmos | Tomás Trapé](https://www.youtube.com/watch?v=8KjUIVVqe0A&list=TLGGVElwXUNEbikyMjA4MjAyNg&index=3).  
