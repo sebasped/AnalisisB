@@ -3,6 +3,10 @@ title: 'Bonus: la lucha por nuestra atención'
 ---
 
 Disparadores para debatir:
+:::{note} 07/Septiempbre/2026
+[Sin celulares ni redes sociales: el movimiento que crece entre los jóvenes | Tomás Trapé](https://www.youtube.com/watch?v=or-8Dllxxbo).  
+:::
+
 :::{note} 23/Agosto/2026
 [¿Por qué la TECNOLOGÍA NUNCA es NEUTRAL? | Flavia Costa en Cabaret Voltaire ](https://www.youtube.com/watch?v=GKrtptIsrU0).  
 :::
