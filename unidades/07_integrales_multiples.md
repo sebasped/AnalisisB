@@ -24,5 +24,6 @@ title: 07 - Integrales múltiples
 - [En videos y apuntes](/referencias.md#videos-y-apuntes):
     - Videos "Integrales múltiples, resolución de ejercicios"  y "Coordenadas polares y esféricas"de Cálculo II de la Univ. San Juan.
     - Videos 36 a 44 de Análisis I Exactas-UBA.
+    - Sección "Integración" del apunte en GeoGebra del Prof. Fabián Contreras.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
