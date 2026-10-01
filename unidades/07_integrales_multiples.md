@@ -27,3 +27,21 @@ title: 07 - Integrales múltiples
     - Sección "Integración" del apunte en GeoGebra del Prof. Fabián Contreras.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
   - Usá GeoGebra para gráficamente entender lo que está pasando.
+
+
+## Aplicaciones en Ingeniería
+
+### Alimentos
+- {cite}`santos2010chilling`: Simulación tridimensional del enfriamiento y congelación de productos de panadería mediante elementos finitos.
+- {cite}`goni2010cooking`: Predicción de tiempos de cocción y pérdidas de peso en carne mediante un modelo térmico tridimensional.
+- {cite}`santos_kirchhoff_freezing`: Predicción de tiempos de congelación de vegetales mediante una formulación de entalpía y Kirchhoff.
+
+### Nuclear
+- {cite}`godino2018steam`: Simulación de la transferencia de calor en un generador de vapor de una instalación nuclear.
+- {cite}`rechiman2017shutdown`: Simulación hidrodinámica tridimensional del segundo sistema de parada de un reactor nuclear experimental (RA-10).
+- {cite}`ramajo2020siphon`: Simulación de sistemas rompe-sifón para reactores nucleares de investigación.
+
+### Industrial/General
+- {cite}`alvarezhostos2024heat`: Conducción de calor transitoria con fuentes móviles mediante métodos Galerkin sin elementos.
+- {cite}`alvarezhostos2022welding`: Transferencia de calor con fuentes móviles aplicada a procesos de soldadura por arco.
+- {cite}`alvarezhostos2023casting`: Conducción de calor y solidificación durante la fundición continua de aluminio.
