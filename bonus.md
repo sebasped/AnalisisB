@@ -3,7 +3,11 @@ title: 'Bonus: la lucha por nuestra atención'
 ---
 
 Disparadores para debatir:
-:::{note} 07/Septiempbre/2026
+:::{note} 01/Octubre/2026
+[Internet es solo una fachada | Tomás Trapé](https://www.youtube.com/watch?v=dchLs4Wmrgo).  
+:::
+
+:::{note} 07/Septiembre/2026
 [Sin celulares ni redes sociales: el movimiento que crece entre los jóvenes | Tomás Trapé](https://www.youtube.com/watch?v=or-8Dllxxbo).  
 :::
 
