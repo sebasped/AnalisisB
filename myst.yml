@@ -23,6 +23,7 @@ project:
       # title: Noticias y anuncios
     - title: Unidades
       children:
+        - file: unidades/08_integrales_curvilineas.md
         - file: unidades/07_integrales_multiples.md
         - file: unidades/06_extremos.md
         - file: unidades/05_implicita_inversa_taylor.md
