@@ -25,7 +25,6 @@ title: 08 - Integrales curvilíneas
       - "Resolución de ejercicios de integrales de línea",
       - "Campos conservativos, obtención de la función potencial",
       - "Ejemplo de Función potencial, conservación de la energía.".
-    - Videos 36 a 44 de Análisis I Exactas-UBA.
     - Sección "Cálculo vectorial" del apunte en GeoGebra del Prof. Fabián Contreras.
     - Apunte de curvas, superficies e integrales, de Acosta y Wolanski.
 - [En recursos varios de interés](/referencias.md#recursos-varios-de-inter-s):
