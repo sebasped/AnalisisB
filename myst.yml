@@ -23,7 +23,7 @@ project:
       # title: Noticias y anuncios
     - title: Unidades
       children:
-        # - file: unidades/10_teoremas_integrales.md
+        - file: unidades/10_teoremas_integrales.md
         - file: unidades/09_integrales_superficies.md
         - file: unidades/08_integrales_curvilineas.md
         - file: unidades/07_integrales_multiples.md

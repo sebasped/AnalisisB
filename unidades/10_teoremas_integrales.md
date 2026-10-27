@@ -8,11 +8,9 @@ title: 10 - Teoremas integrales
 [Click acá para descargar](/material/p10_teoremas_integrales.pdf).
 
 - **Autoevaluación**: sin mirar nada, ¿entendés y te salen los siguientes ejercicios?
-  - .
+  - 5, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18 y 19.
 :::
 
-## Objetivos
-- BLA.
 
 ## Materiales
 - [En libros generales](/referencias.md#libros-generales):
