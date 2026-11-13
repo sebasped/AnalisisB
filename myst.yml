@@ -56,9 +56,5 @@ site:
   #   favicon: favicon.ico
     logo: images/logo-UNSAM.png
     title: "Análisis B"
-  head:
-    - 
-      <script data-goatcounter="https://sebasped.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
 bibliography:
   - bibliography.bib
